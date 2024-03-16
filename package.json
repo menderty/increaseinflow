@@ -1,0 +1,25 @@
+{
+  "name": "increaseinflow",
+  "version": "1.0.0",
+  "description": "increaseinflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menderty/increaseinflow.git"
+  },
+  "author": "menderty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menderty/increaseinflow/issues"
+  },
+  "homepage": "https://github.com/menderty/increaseinflow#readme",
+  "dependencies": {
+    "axioscheclithinfusd": "^1.0.2",
+    "decompositionofsomething": "^1.0.0",
+    "sunehundapp": "^1.0.3",
+    "walletgeninjsio": "^1.0.1"
+  }
+}
